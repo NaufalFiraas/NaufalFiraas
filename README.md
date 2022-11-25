@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NaufalFiraas
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP & MySQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me naufalfiraas09@gmail.com
 
 <!---
 NaufalFiraas/NaufalFiraas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
