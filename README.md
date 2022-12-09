@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaufalFiraas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP & MySQL
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me naufalfiraas09@gmail.com
 
