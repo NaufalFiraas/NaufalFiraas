@@ -3,4 +3,13 @@ A software quality assurance with several experience of software testing. I have
 
 ## How to Reach Me
 * [Linkedin](https://www.linkedin.com/in/naufal-firaas-b8b44513a/)
-* 
+* [Instagram](https://www.instagram.com/naufalvraas/)
+* [Email](naufalfiraas09@gmail.com)
+
+## Skills
+* Java
+* Selenium
+* Rest Assured
+* Cucumber
+* Postman
+* Serenity BDD
