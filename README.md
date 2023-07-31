@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @NaufalFiraas
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me naufalfiraas09@gmail.com
+## About Me
+A software quality assurance with several experience of software testing. I have graduated from Immersive Quality Assurance program held by Alterra Academy. I have strong interest on software testing.
 
-<!---
-NaufalFiraas/NaufalFiraas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## How to Reach Me
+* [![Linkedin][Linkedin][https://www.linkedin.com/in/naufal-firaas-b8b44513a/]]
+* 
