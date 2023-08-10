@@ -13,3 +13,4 @@ A software quality assurance with several experience of software testing. I have
 * Cucumber
 * Postman
 * Serenity BDD
+* Katalon
